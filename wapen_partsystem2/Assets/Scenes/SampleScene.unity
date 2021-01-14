@@ -32292,7 +32292,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u65BD\u653E\u6280\u80FD\n"
+  m_Text: skill
 --- !u!222 &1936392487
 CanvasRenderer:
   m_ObjectHideFlags: 0
